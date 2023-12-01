@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/white"/>
+
+
+
+    <item
+    android:width="@dimen/_120sdp"
+    android:right="@dimen/_50sdp"
+    android:left="@dimen/_50sdp"
+    android:height="@dimen/_80sdp"
+    android:drawable="@drawable/ic_main_icon"
+    android:gravity="center" />
+
+
+    <item
+        android:width="@dimen/_90sdp"
+        android:right="@dimen/_50sdp"
+        android:left="@dimen/_50sdp"
+        android:height="@dimen/_35sdp"
+        android:bottom="@dimen/_60sdp"
+        android:drawable="@drawable/footer_splash"
+        android:gravity="center_horizontal|bottom" />
+
+
+
+</layer-list>
